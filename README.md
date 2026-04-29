@@ -1,2 +1,5 @@
-# Akarsh_Bhatt_590026829_DSA_2026
+# AGRIM AGARWAL 
+# SAP-590025687
+# BATCH-39
+# DSA
 DSA programs in c
